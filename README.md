@@ -1,2 +1,7 @@
-# python-series
-python notes and example
+#comaprison operator to comapre the result
+x=10
+y=20
+print(x>y)
+print(x==y)
+print(x<y)
+print(x!=y)
